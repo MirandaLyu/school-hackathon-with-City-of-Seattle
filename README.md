@@ -31,7 +31,10 @@ Soon, we found lots of missing values in the newest dataset, and we tried to see
 
 Later, when we wanted to check data accuracy, we sought help from a professional machine learning engineer, updated our tool to python pandas and learned to treat outliers critically. Meanwhile, we also found some problems in data consistency.
 
-Finally, we organized our findings and analysis logics, and presented some solutions. (I attached the final presentation here)
+<img width="200" alt="Screenshot 2024-04-09 at 4 57 39 PM" src="https://github.com/MirandaLyu/school.hackathon.with.City.of.Seattle/assets/115821003/83b4215a-52fe-4038-b6aa-c0d650e4bae0">
+
+
+Finally, we organized our findings and analysis logics, and presented some solutions. (I attached the final presentation above)
 
 ## the biggest gain
 
